@@ -22,5 +22,125 @@
 "traduzione_letterale": "It rains on the wet",
 "spiegazione_it": "Quando una cosa brutta succede a chi è già sfortunato, o una cosa bella a chi è già fortunato.",
 "spiegazione_en": "When bad things happen to those already unlucky, or good things to the lucky (When it rains, it pours)."
-}
+},
+  {
+    "testo": "Acqua in bocca",
+    "traduzione_letterale": "Water in the mouth",
+    "spiegazione_it": "Un invito a mantenere un segreto assoluto, a non dire nulla.",
+    "spiegazione_en": "An invitation to keep an absolute secret, to say nothing (Keep it under your hat)."
+  },
+  {
+    "testo": "Arrampicarsi sugli specchi",
+    "traduzione_letterale": "To climb on mirrors",
+    "spiegazione_it": "Cercare scuse assurde o argomenti deboli per giustificarsi.",
+    "spiegazione_en": "To look for absurd excuses or weak arguments to justify oneself (Clutching at straws)."
+  },
+  {
+    "testo": "Avere la testa tra le nuvole",
+    "traduzione_letterale": "To have the head in the clouds",
+    "spiegazione_it": "Essere distratti, sognatori e non prestare attenzione alla realtà.",
+    "spiegazione_en": "To be distracted, a dreamer, and not pay attention to reality."
+  },
+  {
+    "testo": "Cavarsela",
+    "traduzione_letterale": "To get oneself out of it",
+    "spiegazione_it": "Riuscire a superare una situazione difficile con le proprie forze.",
+    "spiegazione_en": "To manage to overcome a difficult situation on your own (To get by)."
+  },
+  {
+    "testo": "Cercare il pelo nell'uovo",
+    "traduzione_letterale": "To look for the hair in the egg",
+    "spiegazione_it": "Essere eccessivamente pignoli, cercare difetti inesistenti.",
+    "spiegazione_en": "To be excessively fussy, looking for non-existent flaws (Nitpicking)."
+  },
+  {
+    "testo": "Chiudere un occhio",
+    "traduzione_letterale": "To close one eye",
+    "spiegazione_it": "Fingere di non vedere un errore o una colpa, perdonare.",
+    "spiegazione_en": "To pretend not to see a mistake or fault, to forgive (To turn a blind eye)."
+  },
+  {
+    "testo": "Costare un occhio della testa",
+    "traduzione_letterale": "To cost an eye of the head",
+    "spiegazione_it": "Avere un prezzo altissimo ed esagerato.",
+    "spiegazione_en": "To have a very high and exaggerated price (To cost an arm and a leg)."
+  },
+  {
+    "testo": "Dare nell'occhio",
+    "traduzione_letterale": "To give in the eye",
+    "spiegazione_it": "Farsi notare, attirare l'attenzione in modo evidente.",
+    "spiegazione_en": "To get noticed, to attract attention clearly (To stand out)."
+  },
+  {
+    "testo": "Essere in alto mare",
+    "traduzione_letterale": "To be in the high sea",
+    "spiegazione_it": "Essere ancora molto lontani dalla fine di un lavoro o di un progetto.",
+    "spiegazione_en": "To be still very far from finishing a job or project."
+  },
+  {
+    "testo": "Fare orecchie da mercante",
+    "traduzione_letterale": "To make merchant's ears",
+    "spiegazione_it": "Fingere di non sentire o di non capire qualcosa che non fa comodo.",
+    "spiegazione_en": "To pretend not to hear or understand something inconvenient (To turn a deaf ear)."
+  },
+  {
+    "testo": "In bocca al lupo",
+    "traduzione_letterale": "In the mouth of the wolf",
+    "spiegazione_it": "Un augurio di buona fortuna prima di una prova importante.",
+    "spiegazione_en": "A wish for good luck before an important test (Break a leg)."
+  },
+  {
+    "testo": "Mandare giù un boccone amaro",
+    "traduzione_letterale": "To swallow a bitter mouthful",
+    "spiegazione_it": "Dover accettare una situazione spiacevole o un'ingiustizia senza poter reagire.",
+    "spiegazione_en": "Having to accept an unpleasant situation without being able to react (To swallow a bitter pill)."
+  },
+  {
+    "testo": "Non avere peli sulla lingua",
+    "traduzione_letterale": "To not have hair on the tongue",
+    "spiegazione_it": "Dire sempre quello che si pensa, con estrema sincerità e senza filtri.",
+    "spiegazione_en": "To always say what you think, with extreme sincerity and without filters (To not mince words)."
+  },
+  {
+    "testo": "Prendere due piccioni con una fava",
+    "traduzione_letterale": "To catch two pigeons with one broad bean",
+    "spiegazione_it": "Raggiungere due obiettivi diversi con una sola azione.",
+    "spiegazione_en": "To achieve two different goals with a single action (To kill two birds with one stone)."
+  },
+  {
+    "testo": "Rompere il ghiaccio",
+    "traduzione_letterale": "To break the ice",
+    "spiegazione_it": "Superare l'imbarazzo iniziale e iniziare una conversazione.",
+    "spiegazione_en": "To overcome the initial embarrassment and start a conversation."
+  },
+  {
+    "testo": "Sapere qualcosa a menadito",
+    "traduzione_letterale": "To know something to the fingertips",
+    "spiegazione_it": "Conoscere un argomento in modo perfetto e dettagliato.",
+    "spiegazione_en": "To know a subject perfectly and in detail (To know something inside out)."
+  },
+  {
+    "testo": "Tagliare la testa al toro",
+    "traduzione_letterale": "To cut the head off the bull",
+    "spiegazione_it": "Prendere una decisione drastica e definitiva per risolvere un problema.",
+    "spiegazione_en": "To make a drastic and final decision to solve a problem."
+  },
+  {
+    "testo": "Tirare l'acqua al proprio mulino",
+    "traduzione_letterale": "To pull water to one's own mill",
+    "spiegazione_it": "Agire o parlare esclusivamente per il proprio interesse personale.",
+    "spiegazione_en": "To act or speak exclusively for one's own personal interest."
+  },
+  {
+    "testo": "Toccare il cielo con un dito",
+    "traduzione_letterale": "To touch the sky with a finger",
+    "spiegazione_it": "Essere estremamente felici per un traguardo raggiunto.",
+    "spiegazione_en": "To be extremely happy for a goal achieved (To be on cloud nine)."
+  },
+  {
+    "testo": "Un pezzo di pane",
+    "traduzione_letterale": "A piece of bread",
+    "spiegazione_it": "Una persona di animo molto buono, gentile e incapace di fare del male.",
+    "spiegazione_en": "A very good-natured, kind person incapable of doing harm."
+  }
 ]
